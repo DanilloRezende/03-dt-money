@@ -12,8 +12,16 @@
             "id": 2,
             "description": "Aluguel",
             "type": "outcome",
-            "category": "Saídas",
+            "category": "Moradia",
             "price": 1000,
+            "createdAt": "2022-09-14T20:06:57.439Z"
+        },        
+        {
+            "id": 3,
+            "description": "Ignite Rocketseat",
+            "type": "outcome",
+            "category": "Educação",
+            "price": 1980,
             "createdAt": "2022-09-14T20:06:57.439Z"
         }
     ]
